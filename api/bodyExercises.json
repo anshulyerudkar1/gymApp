@@ -1,0 +1,479 @@
+{
+    "Back": [
+        {
+            "bodyPart": "Back",
+            "name": "Pull-Ups",
+            "Equipment": "Pull-up bar",
+            "Instructions": [
+                "Grip the bar with your hands slightly wider than shoulder-width apart, palms facing away from you.",
+                "Hang freely with your arms fully extended.",
+                "Pull yourself up by bending your elbows and raising your body until your chin passes the bar.",
+                "Lower yourself back down to the starting position with control."
+            ],
+            "Primary Muscle": "Latissimus dorsi (lats)",
+            "Secondary Muscles": [
+                "Biceps",
+                "upper back",
+                "rear deltoids"
+            ],
+            "Target": [
+                "Upper back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Bent-Over Barbell Rows",
+            "Equipment": "Barbell, weights",
+            "Instructions": [
+                "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width.",
+                "Bend your knees slightly and hinge forward at the hips, keeping your back flat and chest up.",
+                "Pull the barbell towards your lower chest by retracting your shoulder blades and bending your elbows.",
+                "Lower the barbell back down to the starting position."
+            ],
+            "Primary Muscle": "Upper back (rhomboids, traps)",
+            "Secondary Muscles": [
+                "Lats",
+                "biceps",
+                "rear deltoids"
+            ],
+            "Target": [
+                "Upper back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Seated Cable Rows",
+            "Equipment": "Cable machine with seated row attachment",
+            "Instructions": [
+                "Sit at the cable machine with your knees slightly bent and feet flat on the footrests.",
+                "Grasp the handles with an overhand grip, hands shoulder-width apart.",
+                "Keep your back straight and chest up as you pull the handles towards your lower chest by retracting your shoulder blades.",
+                "Slowly return to the starting position with control."
+            ],
+            "Primary Muscle": "Middle back (rhomboids, lats)",
+            "Secondary Muscles": [
+                "Biceps",
+                "rear deltoids"
+            ],
+            "Target": [
+                "Middle back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Deadlifts",
+            "Equipment": "Barbell, weights",
+            "Instructions": [
+                "Stand with your feet hip-width apart and shins close to the barbell.",
+                "Bend at your hips and knees to grip the barbell with an overhand grip, hands shoulder-width apart.",
+                "Keep your back flat, chest up, and core engaged as you stand up, lifting the barbell by extending your hips and knees.",
+                "Lower the barbell back down to the starting position with control."
+            ],
+            "Primary Muscle": "Lower back (erector spinae)",
+            "Secondary Muscles": [
+                "Hamstrings",
+                "glutes",
+                "traps"
+            ],
+            "Target": [
+                "Lower back",
+                "posterior chain"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Lat Pulldowns",
+            "Equipment": "Lat pulldown machine",
+            "Instructions": [
+                "Sit at the lat pulldown machine with your knees secured under the pads and feet flat on the floor.",
+                "Grasp the bar with an overhand grip, hands wider than shoulder-width apart.",
+                "Pull the bar down towards your chest by engaging your lats and retracting your shoulder blades.",
+                "Slowly release the bar back up to the starting position."
+            ],
+            "Primary Muscle": "Latissimus dorsi (lats)",
+            "Secondary Muscles": [
+                "Biceps",
+                "upper back"
+            ],
+            "Target": [
+                "Upper back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Dumbbell Rows",
+            "Equipment": "Dumbbells, bench",
+            "Instructions": [
+                "Place one knee and hand on a bench, with the other foot planted firmly on the floor.",
+                "Hold a dumbbell in the opposite hand with an overhand grip.",
+                "Keep your back flat and parallel to the ground as you pull the dumbbell towards your hip by retracting your shoulder blade and bending your elbow.",
+                "Lower the dumbbell back down to the starting position."
+            ],
+            "Primary Muscle": "Upper back (rhomboids, traps)",
+            "Secondary Muscles": [
+                "Lats",
+                "biceps"
+            ],
+            "Target": [
+                "Upper back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Hyperextensions",
+            "Equipment": "Hyperextension bench",
+            "Instructions": [
+                "Lie face down on the hyperextension bench with your hips positioned at the edge and your feet secured under the pads.",
+                "Cross your arms over your chest or hold a weight plate to your chest.",
+                "Engage your lower back muscles to lift your torso until it is parallel to the ground.",
+                "Lower your torso back down to the starting position."
+            ],
+            "Primary Muscle": "Lower back (erector spinae)",
+            "Secondary Muscles": [
+                "Hamstrings",
+                "glutes"
+            ],
+            "Target": [
+                "Lower back",
+                "posterior chain"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "T-Bar Rows",
+            "Equipment": "T-bar row machine or landmine attachment, barbell",
+            "Instructions": [
+                "Place the end of a barbell into the landmine attachment or T-bar row machine.",
+                "Straddle the barbell with your feet shoulder-width apart and grip the handles with both hands.",
+                "Keep your back flat and chest up as you hinge forward at the hips.",
+                "Pull the barbell towards your lower chest by retracting your shoulder blades.",
+                "Lower the barbell back down to the starting position."
+            ],
+            "Primary Muscle": "Upper back (rhomboids, traps)",
+            "Secondary Muscles": [
+                "Lats",
+                "biceps"
+            ],
+            "Target": [
+                "Upper back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Single-Arm Dumbbell Rows",
+            "Equipment": "Dumbbell, bench",
+            "Instructions": [
+                "Place one knee and hand on a bench, with the other foot planted firmly on the floor.",
+                "Hold a dumbbell in one hand with an overhand grip.",
+                "Keep your back flat and parallel to the ground as you pull the dumbbell towards your hip by retracting your shoulder blade and bending your elbow.",
+                "Lower the dumbbell back down to the starting position."
+            ],
+            "Primary Muscle": "Upper back (rhomboids, traps)",
+            "Secondary Muscles": [
+                "Lats",
+                "biceps"
+            ],
+            "Target": [
+                "Upper back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Barbell Shrugs",
+            "Equipment": "Barbell, weights",
+            "Instructions": [
+                "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width.",
+                "Keep your arms straight and shrug your shoulders upward towards your ears, lifting the barbell as high as possible.",
+                "Hold for a moment at the top of the movement, then lower the barbell back down to the starting position."
+            ],
+            "Primary Muscle": "Trapezius (upper traps)",
+            "Secondary Muscles": [
+                "Rhomboids",
+                "levator scapulae"
+            ],
+            "Target": [
+                "Upper traps"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Inverted Rows",
+            "Equipment": "Suspension trainer (e.g., TRX), low bar",
+            "Instructions": [
+                "Adjust the suspension trainer straps to chest height or use a low bar.",
+                "Grasp the handles with an overhand grip and walk your feet forward, leaning back until your body is at an angle.",
+                "Keep your body straight from head to heels as you pull your chest towards the handles by retracting your shoulder blades.",
+                "Lower yourself back down to the starting position with control."
+            ],
+            "Primary Muscle": "Upper back (rhomboids, traps)",
+            "Secondary Muscles": [
+                "Lats",
+                "biceps"
+            ],
+            "Target": [
+                "Upper back",
+                "lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Renegade Rows",
+            "Equipment": "Dumbbells, mat",
+            "Instructions": [
+                "Start in a high plank position with a dumbbell in each hand, wrists aligned with shoulders.",
+                "Keeping your core engaged and hips level, row one dumbbell towards your hip while stabilizing with the other arm.",
+                "Lower the dumbbell back down to the ground and repeat on the other side."
+            ],
+            "Primary Muscle": "Upper back (rhomboids, traps)",
+            "Secondary Muscles": [
+                "Lats",
+                "core"
+            ],
+            "Target": [
+                "Upper back",
+                "lats",
+                "core"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Straight-Arm Pulldowns",
+            "Equipment": "Lat pulldown machine, straight bar attachment",
+            "Instructions": [
+                "Sit at the lat pulldown machine with your knees secured under the pads and feet flat on the floor.",
+                "Grasp the straight bar with an overhand grip, hands wider than shoulder-width apart.",
+                "Keep your arms straight and pull the bar down towards your thighs by engaging your lats.",
+                "Slowly release the bar back up to the starting position."
+            ],
+            "Primary Muscle": "Lats",
+            "Secondary Muscles": [
+                "Triceps",
+                "core"
+            ],
+            "Target": [
+                "Lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Face Pulls",
+            "Equipment": "Cable machine, rope attachment",
+            "Instructions": [
+                "Attach a rope to a high pulley on the cable machine.",
+                "Grasp the ends of the rope with an overhand grip, hands shoulder-width apart.",
+                "Step back and lean back slightly, keeping your arms extended.",
+                "Pull the rope towards your face by squeezing your shoulder blades together.",
+                "Pause, then slowly return to the starting position."
+            ],
+            "Primary Muscle": "Rear deltoids, upper back",
+            "Secondary Muscles": [
+                "Rotator cuff",
+                "traps"
+            ],
+            "Target": [
+                "Rear deltoids",
+                "upper back"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Wide-Grip Pull-Ups",
+            "Equipment": "Pull-up bar",
+            "Instructions": [
+                "Grip the bar with hands wider than shoulder-width apart, palms facing away from you.",
+                "Hang from the bar with arms fully extended.",
+                "Pull yourself up until your chin clears the bar, keeping your chest up and shoulders back.",
+                "Lower yourself back down to the starting position with control."
+            ],
+            "Primary Muscle": "Lats",
+            "Secondary Muscles": [
+                "Biceps",
+                "upper back"
+            ],
+            "Target": [
+                "Lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Seated Cable Rows",
+            "Equipment": "Cable machine, V-bar attachment",
+            "Instructions": [
+                "Sit at the cable machine with your knees slightly bent and feet flat on the platform.",
+                "Grasp the V-bar attachment with an overhand grip, hands shoulder-width apart.",
+                "Keep your back straight and pull the handle towards your torso by retracting your shoulder blades.",
+                "Pause, then slowly extend your arms back to the starting position."
+            ],
+            "Primary Muscle": "Lats",
+            "Secondary Muscles": [
+                "Rhomboids",
+                "biceps"
+            ],
+            "Target": [
+                "Lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Hyperextensions",
+            "Equipment": "Hyperextension bench",
+            "Instructions": [
+                "Adjust the hyperextension bench so that your hips are resting at the top pad and your ankles are secured under the rollers.",
+                "Cross your arms over your chest or hold a weight plate to your chest.",
+                "Keeping your back straight, lower your torso towards the ground until your body forms a straight line.",
+                "Lift your torso back up until it is parallel to the ground."
+            ],
+            "Primary Muscle": "Lower back (erector spinae)",
+            "Secondary Muscles": [
+                "Glutes",
+                "hamstrings"
+            ],
+            "Target": [
+                "Lower back"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Dumbbell Deadlifts",
+            "Equipment": "Dumbbells",
+            "Instructions": [
+                "Stand with feet hip-width apart, holding dumbbells in front of thighs with palms facing your body.",
+                "Hinge at your hips and bend your knees slightly as you lower the dumbbells towards the ground.",
+                "Keep your back flat and chest up.",
+                "Push through your heels to return to standing, squeezing your glutes at the top."
+            ],
+            "Primary Muscle": "Lower back (erector spinae), glutes",
+            "Secondary Muscles": [
+                "Hamstrings",
+                "traps"
+            ],
+            "Target": [
+                "Lower back",
+                "glutes"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Pull-Up Negatives",
+            "Equipment": "Pull-up bar",
+            "Instructions": [
+                "Jump or use a chair to get your chin above the bar.",
+                "Slowly lower yourself down, taking at least 3-5 seconds to descend.",
+                "Focus on controlling the movement and engaging your back muscles.",
+                "Once you reach the bottom, reset and repeat."
+            ],
+            "Primary Muscle": "Lats",
+            "Secondary Muscles": [
+                "Biceps",
+                "upper back"
+            ],
+            "Target": [
+                "Lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Prone Cobras",
+            "Equipment": "Mat",
+            "Instructions": [
+                "Lie face down on the mat with arms by your sides and palms facing up.",
+                "Lift your chest and arms off the ground, squeezing your shoulder blades together.",
+                "Hold for a moment, then lower back down.",
+                "Focus on engaging your back muscles throughout the movement."
+            ],
+            "Primary Muscle": "Upper back (rhomboids, traps)",
+            "Secondary Muscles": [
+                "Rear deltoids",
+                "lower back"
+            ],
+            "Target": [
+                "Upper back"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "T-Bar Rows",
+            "Equipment": "T-bar row machine or landmine attachment, barbell",
+            "Instructions": [
+                "Load the appropriate weight onto the T-bar machine or secure a barbell in a landmine attachment.",
+                "Stand with feet shoulder-width apart, knees slightly bent, and hinge at the hips to grab the handles or barbell with an overhand grip.",
+                "Keep your back straight and chest up as you pull the weight towards your lower chest, retracting your shoulder blades.",
+                "Slowly lower the weight back down to the starting position."
+            ],
+            "Primary Muscle": "Lats",
+            "Secondary Muscles": [
+                "Rhomboids",
+                "biceps",
+                "rear deltoids"
+            ],
+            "Target": [
+                "Lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Pullovers",
+            "Equipment": "Dumbbell or barbell, bench",
+            "Instructions": [
+                "Lie on a bench with only your upper back and shoulders supported, feet flat on the floor.",
+                "Hold a dumbbell or barbell with both hands above your chest, arms slightly bent.",
+                "Lower the weight behind your head in a controlled motion, feeling a stretch in your lats.",
+                "Pull the weight back up to the starting position, engaging your lats."
+            ],
+            "Primary Muscle": "Lats",
+            "Secondary Muscles": [
+                "Chest",
+                "triceps"
+            ],
+            "Target": [
+                "Lats"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Good Mornings",
+            "Equipment": "Barbell, weights",
+            "Instructions": [
+                "Stand with your feet shoulder-width apart and a barbell across your upper back, resting on your traps.",
+                "Keep your back straight and core engaged as you hinge at your hips, leaning forward until your torso is parallel to the ground.",
+                "Keep a slight bend in your knees throughout the movement.",
+                "Return to the starting position by squeezing your glutes and extending your hips."
+            ],
+            "Primary Muscle": "Lower back, hamstrings",
+            "Secondary Muscles": [
+                "Glutes",
+                "erector spinae"
+            ],
+            "Target": [
+                "Lower back",
+                "hamstrings"
+            ]
+        },
+        {
+            "bodyPart": "Back",
+            "name": "Back Extensions",
+            "Equipment": "Back extension machine or hyperextension bench",
+            "Instructions": [
+                "Position yourself face down on the back extension machine or hyperextension bench, with your hips resting on the pad and your feet secured under the footpads.",
+                "Cross your arms over your chest or place your hands behind your head.",
+                "Keeping your back straight, slowly lift your torso until it is in line with your legs.",
+                "Lower yourself back down with control."
+            ],
+            "Primary Muscle": "Erector spinae",
+            "Secondary Muscles": [
+                "Glutes",
+                "hamstrings"
+            ],
+            "Target": [
+                "Lower back"
+            ]
+        }
+    ]
+}
